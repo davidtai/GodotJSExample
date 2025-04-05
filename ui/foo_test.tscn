@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://c643rvopnh4my"]
 
-[ext_resource type="Script" path="res://ui/foo.ts" id="1_khxv5"]
+[ext_resource type="Script" uid="uid://c7j8s4pfpablc" path="res://ui/foo.ts" id="1_khxv5"]
 [ext_resource type="Texture2D" uid="uid://cb1mb0lqy4t3o" path="res://icon/filetype-js.svg" id="2_6aiei"]
 [ext_resource type="Texture2D" uid="uid://tis2qu4yt3mh" path="res://jumpybird/bird.png" id="3_eysdg"]
 
